@@ -1,0 +1,5 @@
+go get <package address>
+go run <package file>
+go build 
+go mod init 
+go mod tidy
